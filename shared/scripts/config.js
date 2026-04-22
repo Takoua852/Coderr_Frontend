@@ -10,7 +10,7 @@ const GUEST_LOGINS = {
 }
 
 const API_BASE_URL = 'https://coderr-frontend-zxjc.onrender.com';
-const STATIC_BASE_URL = 'https://coderr-frontend-zxjc.onrender.com';
+const STATIC_BASE_URL = 'https://coderr-frontend-zxjc.onrender.com/static/';
 
 
 const LOGIN_URL = 'login/';
